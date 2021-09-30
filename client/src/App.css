@@ -1,0 +1,108 @@
+#wrapper {
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.navbar {
+  top: 0;
+}
+
+.content {
+  top: 50px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.home {
+  top: 65px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow-x: auto;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  position: absolute;
+}
+
+.profile-menus {
+  top: 65px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow-y: auto;
+  position: absolute;
+}
+
+.admin-menus {
+  top: 65px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow-y: auto;
+  position: absolute;
+}
+.page-header {
+  height: 65px;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.user-booking {
+  top: 0;
+  bottom: 0;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  overflow-y: auto;
+}
+.nav-tabs {
+  height: 43px;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.profile-page {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.admin-home {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.booking-page {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow-y: auto;
+}
+
+@media only screen and (max-width: 600px) {
+  .page-header {
+    height: 130px;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+
+  .home {
+    top: 130px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    overflow-x: auto;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    position: absolute;
+  }
+}

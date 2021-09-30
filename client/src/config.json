@@ -1,0 +1,4 @@
+{
+  "apiUrl": "https://hotel-room-booking-app.herokuapp.com/api",
+  "stripePublicKey": "pk_test_51JRetgSHE1QEFA6KTygCwShVgfZNnsh1J2TQpP5Sjrc5r3KuVuQjGgAWCbOStMKLYtUwXkaD1RBnwNwI2pUD2sI600nEqxybYS"
+}
